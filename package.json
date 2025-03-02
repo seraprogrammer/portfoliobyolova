@@ -1,0 +1,22 @@
+{
+  "name": "olova",
+  "version": "1.0.0",
+  "description": "A project using Olova framework with Vite.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.9",
+    "olova": "2.0.15",
+    "olovaplugin": "1.0.4",
+    "tailwindcss": "^4.0.9"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "author": "sera programmer",
+  "license": "MIT"
+}
